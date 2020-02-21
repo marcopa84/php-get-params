@@ -52,7 +52,7 @@
             ?>
           <li>
             <?php echo $pms[$i]['name'] . ' - ' . $pms[$i]['lastname']; ?>
-           </li>
+          </li>
     <?php } ?>
       </ul>
 
